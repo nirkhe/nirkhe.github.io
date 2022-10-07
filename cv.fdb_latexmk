@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1664752703 "cv.tex" "cv.pdf" "cv" 1664752703
+["pdflatex"] 1664999389 "cv.tex" "cv.pdf" "cv" 1664999391
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc" 1640468671 3136 aac2e2476de8af6c827239df395814ee ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1640468671 2914 8283dfc24eaf1964346f843d7605c2b0 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1422827479 2083 60e36f8eac802fcaf19eabe2633b406e ""
@@ -131,9 +131,9 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1663243391 2826441 1073f6dcf0429e7be903dbae97491b30 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "cv.aux" 1664752703 1934 198342eb74487bf4635c88111936a61b "pdflatex"
-  "cv.out" 1664752703 1393 64480172576c2d6c04472077e0553534 "pdflatex"
-  "cv.tex" 1664752699 15450 196757428ab76b9a59b191485ea28afc ""
+  "cv.aux" 1664999391 1934 198342eb74487bf4635c88111936a61b "pdflatex"
+  "cv.out" 1664999391 1393 64480172576c2d6c04472077e0553534 "pdflatex"
+  "cv.tex" 1664999388 15585 c7e5e0fd5707b1b9f514e2820c204451 ""
   (generated)
   "cv.aux"
   "cv.log"
