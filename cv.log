@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.15)  8 OCT 2022 13:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.15)  10 OCT 2022 08:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -771,7 +771,7 @@ fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2022/texmf-dist/fonts/
 type1/public/newtx/ztmb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/pub
 lic/newtx/ztmr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx
 /ztmri.pfb>
-Output written on cv.pdf (5 pages, 155470 bytes).
+Output written on cv.pdf (5 pages, 155458 bytes).
 PDF statistics:
  169 PDF objects out of 1000 (max. 8388607)
  144 compressed objects within 2 object streams
