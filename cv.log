@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.15)  10 OCT 2022 08:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.15)  17 OCT 2022 09:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -746,7 +746,7 @@ File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.95pt on input line 421.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 437.
+(Font)              scaled to size 10.95pt on input line 441.
  [5] (./cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 64480172576C2D6C04472077E0553534;1393.
@@ -771,7 +771,7 @@ fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2022/texmf-dist/fonts/
 type1/public/newtx/ztmb.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/pub
 lic/newtx/ztmr.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/newtx
 /ztmri.pfb>
-Output written on cv.pdf (5 pages, 155458 bytes).
+Output written on cv.pdf (5 pages, 155709 bytes).
 PDF statistics:
  169 PDF objects out of 1000 (max. 8388607)
  144 compressed objects within 2 object streams
