@@ -1,5 +1,5 @@
 a {
-	color:#003262;
+	color:#3c1874;
 	text-decoration: none;
 }
 
@@ -8,28 +8,28 @@ body{
 	max-width	:1000px;
 	line-height	:1.6;
 	font-size	:16px;
-	color		:#53626f;
-	background-color :#f4f4f4;
+	color		:#283747;
+	background-color :#f3f3f3;
 	padding		:0 10px;
-	font-family: "Palatino", serif;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
 b {
-	color:#003262
+	color:#3c1874
 }
 
 h1 {
 	text-align:center;
-	color:#00b0da
+	color:#932432
 }
 
 h2 {
-	color:#00b0da
+	color:#932432
 }
 
 h3 {
 	line-height:1.2;
-	color:#00b0da
+	color:#932432
 }
 
 .center {
