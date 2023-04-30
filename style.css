@@ -19,7 +19,7 @@ b {
 }
 
 h1 {
-	text-align: center;
+/*	text-align: center;*/
 	color:#00b0da
 }
 
@@ -31,6 +31,10 @@ h2 {
 h3 {
 	line-height:1.2;
 	color:#00b0da
+}
+
+p  {
+	text-align: justify;
 }
 
 .center {
